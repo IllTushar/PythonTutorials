@@ -1,0 +1,6 @@
+a = int(input("Enter value"))
+b = int(input("Enter value"))
+print(a+b)
+c = eval(input("Enter value"))
+d = eval(input("Enter value "))
+print(c+d)
